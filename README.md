@@ -20,4 +20,15 @@ npx shadcn-ui@latest add input
 npx shadcn-ui@latest add label
 
 npm i zod
+
+npm i kysely @vercel/postgres-kysely
+npm i dotenv
+npm i tsx
+npm i bcrypt
 ```
+
+## SQL Commands
+
+| Command                   | Description                |
+| ------------------------- | -------------------------- |
+| truncate table table_name | delete contents of a table |
